@@ -1,0 +1,375 @@
+fecha,year,week,Embalses,Ríos,Capacidad (hm3),Actual (hm3),(+ / -) Semana Anterior,porcentaje,embalse_rio,tipo,cuenca,latitud,longitud
+16/01/2024,2024,3,Albarellos,Avia,91,27,-10,29.7,Albarellos (Avia),Hidroeléctrico,Miño - Sil,42.3924125,-8.2069448
+16/01/2024,2024,3,Bao,Bibey,238,209,0,87.8,Bao (Bibey),Hidroeléctrico,Miño - Sil,42.2078913,-7.141398526
+16/01/2024,2024,3,Bárcena,Sil,341,161,9,47.2,Bárcena (Sil),Consuntivo,Miño - Sil,42.5775131,-6.559887
+16/01/2024,2024,3,Belesar,Miño,655,514,-5,78.5,Belesar (Miño),Hidroeléctrico,Miño - Sil,42.7241941,-7.6832998
+16/01/2024,2024,3,La Campañana,Sil,14,7,-4,50,La Campañana (Sil),Hidroeléctrico,Miño - Sil,42.5022576,-6.7614441
+16/01/2024,2024,3,Castrelo,Miño,60,49,-3,81.7,Castrelo (Miño),Hidroeléctrico,Miño - Sil,42.2964585,-8.1038218
+16/01/2024,2024,3,Cenza,Cenza,40,27,-2,67.5,Cenza (Cenza),Hidroeléctrico,Miño - Sil,42.1879086,-7.2301473
+16/01/2024,2024,3,Chandrexa,Navea,61,59,1,96.7,Chandrexa (Navea),Hidroeléctrico,Miño - Sil,42.2500206,-7.4172309
+16/01/2024,2024,3,Las Conchas,Limia,80,57,0,71.2,Las Conchas (Limia),Hidroeléctrico,Miño - Sil,41.96482558,-7.982226824
+16/01/2024,2024,3,Edrada-Mao,Mao,14,12,0,85.7,Edrada-Mao (Mao),Hidroeléctrico,Miño - Sil,42.33510914,-7.531193966
+16/01/2024,2024,3,Frieira,Miño,44,38,-1,86.4,Frieira (Miño),Hidroeléctrico,Miño - Sil,42.2099606,-8.1919112
+16/01/2024,2024,3,Guístolas,Navea,5,4,0,80,Guístolas (Navea),Hidroeléctrico,Miño - Sil,42.3441596,-7.2999743
+16/01/2024,2024,3,Matalavilla,Valseco,65,28,-4,43.1,Matalavilla (Valseco),Hidroeléctrico,Miño - Sil,42.8353684,-6.4330305
+16/01/2024,2024,3,Montefurado,Bibey-Sil,10,10,1,100,Montefurado (Bibey-Sil),Hidroeléctrico,Miño - Sil,42.391278,-7.2179026
+16/01/2024,2024,3,Os Peares,Miño,182,171,-4,94,Os Peares (Miño),Hidroeléctrico,Miño - Sil,42.4537929,-7.7360687
+16/01/2024,2024,3,Peñarrubia,Sil,13,12,0,92.3,Peñarrubia (Sil),Hidroeléctrico,Miño - Sil,42.4625865,-6.8123247
+16/01/2024,2024,3,Pías (San Agustín),Bibey,10,5,-2,50,Pías (San Agustín) (Bibey),Hidroeléctrico,Miño - Sil,42.1110396,-6.9893766
+16/01/2024,2024,3,Las Portas,Camba,536,455,-5,84.9,Las Portas (Camba),Hidroeléctrico,Miño - Sil,42.1144322,-7.2090197
+16/01/2024,2024,3,Prada,Jares,122,110,-3,90.2,Prada (Jares),Hidroeléctrico,Miño - Sil,42.2996301,-7.0377463
+16/01/2024,2024,3,Las Rozas,Sil,28,14,-4,50,Las Rozas (Sil),Hidroeléctrico,Miño - Sil,40.5512254,-3.9450933
+16/01/2024,2024,3,Salas,Salas,87,46,3,52.9,Salas (Salas),Hidroeléctrico,Miño - Sil,41.92523,-7.942892
+16/01/2024,2024,3,San Martiño,Sil,10,9,-1,90,San Martiño (Sil),Hidroeléctrico,Miño - Sil,42.3903315,-7.1732176
+16/01/2024,2024,3,San Pedro,Sil,6,5,-1,83.3,San Pedro (Sil),Hidroeléctrico,Miño - Sil,42.45384319,-7.722344038
+16/01/2024,2024,3,San Sebastián,Bibey,46,29,-3,63,San Sebastián (Bibey),Hidroeléctrico,Miño - Sil,42.1487345,-6.935674
+16/01/2024,2024,3,San. Estevo,Sil,213,168,-5,78.9,San. Estevo (Sil),Hidroeléctrico,Miño - Sil,42.414229,-7.6496967
+16/01/2024,2024,3,Santa Eulalia,Jares,10,8,-1,80,Santa Eulalia (Jares),Hidroeléctrico,Miño - Sil,42.34971143,-7.06433241
+16/01/2024,2024,3,Sequeiros,Sil,11,10,0,90.9,Sequeiros (Sil),Hidroeléctrico,Miño - Sil,42.4484623,-7.2511262
+16/01/2024,2024,3,Velle,Miño,17,13,0,76.5,Velle (Miño),Hidroeléctrico,Miño - Sil,42.3787614,-7.8265973
+16/01/2024,2024,3,Vilasouto,Mao,21,16,1,76.2,Vilasouto (Mao),Consuntivo,Miño - Sil,42.6639318,-7.417857
+16/01/2024,2024,3,Nª Sª de Agavanzal,Tera,36,27,-1,75,Nª Sª de Agavanzal (Tera),Hidroeléctrico,Duero,41.9736241,-6.1619784
+16/01/2024,2024,3,Águeda,Águeda,15,11,0,73.3,Águeda (Águeda),Consuntivo,Duero,40.5298774,-6.4816084
+16/01/2024,2024,3,Aguilar,Pisuerga,247,99,1,40.1,Aguilar (Pisuerga),Consuntivo,Duero,42.79638277,-4.2871426
+16/01/2024,2024,3,Aldeadávila,Duero,114,110,6,96.5,Aldeadávila (Duero),Hidroeléctrico,Duero,41.21193,-6.68567
+16/01/2024,2024,3,Almendra,Tormes,2649,1431,-43,54,Almendra (Tormes),Hidroeléctrico,Duero,41.266944,-6.307778
+16/01/2024,2024,3,Arlanzón,Arlanzón,22,16,0,72.7,Arlanzón (Arlanzón),Consuntivo,Duero,42.2640933,-3.3381607
+16/01/2024,2024,3,Barrios de Luna,Luna,308,176,4,57.1,Barrios de Luna (Luna),Consuntivo,Duero,42.8497549,-5.8637585
+16/01/2024,2024,3,Burgomillodo,Duratón,14,10,0,71.4,Burgomillodo (Duratón),Hidroeléctrico,Duero,41.3315989,-3.880167
+16/01/2024,2024,3,Camporredondo,Carrión,69,45,1,65.2,Camporredondo (Carrión),Consuntivo,Duero,42.9,-4.7166667
+16/01/2024,2024,3,Casares de Arbas,Casares,37,16,0,43.2,Casares de Arbas (Casares),Consuntivo,Duero,42.927778000000004,-5.758889
+16/01/2024,2024,3,Castro,Duero,27,25,1,92.6,Castro (Duero),Hidroeléctrico,Duero,41.5752139,-6.1872564
+16/01/2024,2024,3,Castro de las Cogotas,Adaja,58,41,2,70.7,Castro de las Cogotas (Adaja),Consuntivo,Duero,40.723889,-4.698333
+16/01/2024,2024,3,Cernadilla,Tera,255,167,-3,65.5,Cernadilla (Tera),Hidroeléctrico,Duero,42.0124314,-6.5203088
+16/01/2024,2024,3,Cervera,Rivera,10,2,0,20,Cervera (Rivera),Consuntivo,Duero,42.866667,-4.528889
+16/01/2024,2024,3,Compuerto,Carrión,95,80,0,84.2,Compuerto (Carrión),Consuntivo,Duero,42.8789433,-4.8015285
+16/01/2024,2024,3,Cuerda del Pozo,Duero,249,199,1,79.9,Cuerda del Pozo (Duero),Consuntivo,Duero,41.8546786,-2.7456298
+16/01/2024,2024,3,Irueña,Águeda,110,69,-1,62.7,Irueña (Águeda),Consuntivo,Duero,40.44441565,-6.579226525
+16/01/2024,2024,3,Linares del Arroyo,Riaza,54,37,2,68.5,Linares del Arroyo (Riaza),Consuntivo,Duero,41.5060816,-3.5268841
+16/01/2024,2024,3,El Pontón Alto,Eresma,7,7,0,100,El Pontón Alto (Eresma),Consuntivo,Duero,40.9146902,-4.036459
+16/01/2024,2024,3,Porma-(Juan Benet),Porma,318,155,2,48.7,Porma-(Juan Benet) (Porma),Consuntivo,Duero,42.9488854,-5.2815051
+16/01/2024,2024,3,Puente Porto,Segundera,23,11,-1,47.8,Puente Porto (Segundera),Hidroeléctrico,Duero,42.1130422,-6.83376
+16/01/2024,2024,3,Rábanos,Duero,8,8,0,100,Rábanos (Duero),Hidroeléctrico,Duero,41.714072,-2.4734788
+16/01/2024,2024,3,Requejada,Pisuerga,59,9,1,15.3,Requejada (Pisuerga),Consuntivo,Duero,42.9155016,-4.4992928
+16/01/2024,2024,3,Riaño,Esla,641,329,4,51.3,Riaño (Esla),Consuntivo,Duero,42.9705355,-5.0156456
+16/01/2024,2024,3,Ricobayo,Esla,1145,470,-110,41,Ricobayo (Esla),Hidroeléctrico,Duero,41.5275,-5.985
+16/01/2024,2024,3,San José,Duero,6,6,0,100,San José (Duero),Consuntivo,Duero,41.40477766,-5.273450161
+16/01/2024,2024,3,Santa Teresa,Tormes,496,377,1,76,Santa Teresa (Tormes),Consuntivo,Duero,40.6690424,-5.6044606
+16/01/2024,2024,3,Saucelle,Duero,181,178,0,98.3,Saucelle (Duero),Hidroeléctrico,Duero,41.0473916,-6.8044556
+16/01/2024,2024,3,Serones,Voltoya,6,6,0,100,Serones (Voltoya),Consuntivo,Duero,40.689722,-4.473889
+16/01/2024,2024,3,Úzquiza,Arlanzón,75,60,0,80,Úzquiza (Arlanzón),Consuntivo,Duero,42.3069973,-3.3477076
+16/01/2024,2024,3,Valparaíso,Tera,169,154,2,91.1,Valparaíso (Tera),Hidroeléctrico,Duero,41.9677297,-6.2933711
+16/01/2024,2024,3,Las Vencías,Duratón,5,4,0,80,Las Vencías (Duratón),Hidroeléctrico,Duero,41.4201845,-3.9604246
+16/01/2024,2024,3,Villagonzalo,Tormes,6,6,0,100,Villagonzalo (Tormes),Consuntivo,Duero,40.8731953,-5.4951721
+16/01/2024,2024,3,Villalcampo,Duero,66,63,2,95.5,Villalcampo (Duero),Hidroeléctrico,Duero,41.491111,-6.085278
+16/01/2024,2024,3,Villameca,Tuerto,20,15,0,75,Villameca (Tuerto),Consuntivo,Duero,42.6534432,-6.0778484
+16/01/2024,2024,3,Aceña,Aceña,24,15,0,62.5,Aceña (Aceña),Consuntivo,Tajo,40.6192838,-4.2211616
+16/01/2024,2024,3,Alcántara,Tajo,3160,2238,-199,70.8,Alcántara (Tajo),Hidroeléctrico,Tajo,39.73,-6.884722
+16/01/2024,2024,3,Alcorlo,Bornova,180,72,0,40,Alcorlo (Bornova),Consuntivo,Tajo,41.022516,-3.0250778
+16/01/2024,2024,3,Almoguera,Tajo,7,6,0,85.7,Almoguera (Tajo),Hidroeléctrico,Tajo,40.275556,-2.9575
+16/01/2024,2024,3,El Atance,Salado,35,6,0,17.1,El Atance (Salado),Consuntivo,Tajo,41.0954055,-2.7792261
+16/01/2024,2024,3,El Atazar,Lozoya,426,265,1,62.2,El Atazar (Lozoya),Consuntivo,Tajo,40.9018994,-3.5433199
+16/01/2024,2024,3,Azután,Tajo,113,76,-2,67.3,Azután (Tajo),Hidroeléctrico,Tajo,39.7780137,-5.0884823
+16/01/2024,2024,3,Baños,Baños,41,34,1,82.9,Baños (Baños),Consuntivo,Tajo,40.29054,-5.8894741
+16/01/2024,2024,3,Beleña,Sorbe,53,38,1,71.7,Beleña (Sorbe),Consuntivo,Tajo,40.950963,-3.2018198
+16/01/2024,2024,3,Bolarque,Tajo,31,29,4,93.5,Bolarque (Tajo),Hidroeléctrico,Tajo,40.363889,-2.815
+16/01/2024,2024,3,Borbollon,Árrago,88,61,1,69.3,Borbollon (Árrago),Consuntivo,Tajo,40.141467,-6.5543199
+16/01/2024,2024,3,Buendía,Guadiela,1705,346,3,20.3,Buendía (Guadiela),Consuntivo,Tajo,40.3988443,-2.7836314
+16/01/2024,2024,3,Burguillo - Puente Nuevo,Alberche,201,96,-2,47.8,Burguillo - Puente Nuevo (Alberche),Consuntivo,Tajo,40.44269,-4.5636526
+16/01/2024,2024,3,Cáceres - Guadiloba,Guadiloba,20,17,0,85,Cáceres - Guadiloba (Guadiloba),Consuntivo,Tajo,39.4859827,-6.2867284
+16/01/2024,2024,3,Castrejón,Tajo,44,41,1,93.2,Castrejón (Tajo),Hidroeléctrico,Tajo,39.8585834,-4.2871904
+16/01/2024,2024,3,El Castro,Algodor,8,3,0,37.5,El Castro (Algodor),Consuntivo,Tajo,39.79604664,-3.759471263
+16/01/2024,2024,3,Cazalegas,Alberche,7,7,0,100,Cazalegas (Alberche),Consuntivo,Tajo,40.0169519,-4.6993044
+16/01/2024,2024,3,Cedillo,Tajo,260,245,-2,94.2,Cedillo (Tajo),Hidroeléctrico,Tajo,39.663822,-7.5389935
+16/01/2024,2024,3,Entrepeñas,Tajo,813,270,3,33.2,Entrepeñas (Tajo),Consuntivo,Tajo,40.5136201,-2.7307058
+16/01/2024,2024,3,Finisterre,Algodor,133,1,1,0.8,Finisterre (Algodor),Consuntivo,Tajo,39.6192717,-3.6876803
+16/01/2024,2024,3,Gabriel y Galán,Alagón,911,534,7,58.6,Gabriel y Galán (Alagón),Consuntivo,Tajo,40.2819282,-6.1288426
+16/01/2024,2024,3,Guajaraz,Guajaraz,18,14,0,77.8,Guajaraz (Guajaraz),Consuntivo,Tajo,39.7951814,-4.0861569
+16/01/2024,2024,3,Guijo de Granadilla,Alagón,13,12,0,92.3,Guijo de Granadilla (Alagón),Hidroeléctrico,Tajo,40.1802394,-6.1422828
+16/01/2024,2024,3,La Jarosa,La Jarosa,7,4,-1,57.1,La Jarosa (La Jarosa),Consuntivo,Tajo,40.6690996,-4.1219537
+16/01/2024,2024,3,Jerte - Plasencia,Jerte,59,35,0,59.3,Jerte - Plasencia (Jerte),Consuntivo,Tajo,40.0776825,-6.0136694
+16/01/2024,2024,3,Molino de Chincha,Guadiela,6,5,0,83.3,Molino de Chincha (Guadiela),Hidroeléctrico,Tajo,40.5437826,-2.1682921
+16/01/2024,2024,3,Navacerrada,Navacerrada,11,6,0,54.5,Navacerrada (Navacerrada),Consuntivo,Tajo,40.7187095,-4.0069802
+16/01/2024,2024,3,Navalcán,Guayerbas,34,31,1,91.2,Navalcán (Guayerbas),Consuntivo,Tajo,40.0352162,-5.1145455
+16/01/2024,2024,3,Navamuño,Angostura,14,12,0,85.7,Navamuño (Angostura),Consuntivo,Tajo,40.3431491,-5.7817325
+16/01/2024,2024,3,Pálmaces,Cañamares,31,12,0,38.7,Pálmaces (Cañamares),Consuntivo,Tajo,41.0593077,-2.9163471
+16/01/2024,2024,3,El Pardo,Manzanares,43,16,-1,37.2,El Pardo (Manzanares),Consuntivo,Tajo,40.538611,-3.786944
+16/01/2024,2024,3,Picadas,Alberche,15,14,0,93.3,Picadas (Alberche),Consuntivo,Tajo,40.3332076,-4.2491977
+16/01/2024,2024,3,Pinilla,Lozoya,38,26,1,68.4,Pinilla (Lozoya),Consuntivo,Tajo,40.9392554,-3.7968574
+16/01/2024,2024,3,Portaje,Fresnedilla,23,17,1,73.9,Portaje (Fresnedilla),Consuntivo,Tajo,39.8772877,-6.527643
+16/01/2024,2024,3,La Portiña,Portiña,5,2,0,40,La Portiña (Portiña),Consuntivo,Tajo,40.0001945,-4.8423417
+16/01/2024,2024,3,Puentes Viejas,Lozoya,53,41,0,77.4,Puentes Viejas (Lozoya),Consuntivo,Tajo,40.9931645,-3.5709094
+16/01/2024,2024,3,Riosequillo,Lozoya,50,39,0,78,Riosequillo (Lozoya),Consuntivo,Tajo,40.9830271,-3.6509177
+16/01/2024,2024,3,Rivera de Gata,Rivera de Gata,49,42,0,85.7,Rivera de Gata (Rivera de Gata),Consuntivo,Tajo,40.1369196,-6.6376528
+16/01/2024,2024,3,Rosarito,Tiétar,82,45,0,54.9,Rosarito (Tiétar),Consuntivo,Tajo,40.1032226,-5.3076366
+16/01/2024,2024,3,Salor,Salor,14,13,0,92.9,Salor (Salor),Consuntivo,Tajo,39.36487,-6.304863592
+16/01/2024,2024,3,San Juan,Alberche,138,71,1,51.4,San Juan (Alberche),Consuntivo,Tajo,40.38842166,-4.34424238
+16/01/2024,2024,3,Santillana,Manzanares,91,72,0,79.1,Santillana (Manzanares),Consuntivo,Tajo,40.7183943,-3.8697527
+16/01/2024,2024,3,La Tajera,Tajuña,64,19,0,29.7,La Tajera (Tajuña),Consuntivo,Tajo,40.8549702,-2.6003235
+16/01/2024,2024,3,Torcón,Torcón,7,3,0,42.9,Torcón (Torcón),Consuntivo,Tajo,39.6205081,-4.3777129
+16/01/2024,2024,3,Torrejón (Tajo - Tietar),Tiétar,188,175,0,93.1,Torrejón (Tajo - Tietar) (Tiétar),Hidroeléctrico,Tajo,39.7623465,-5.82088
+16/01/2024,2024,3,El Vado,Jarama,56,29,0,51.8,El Vado (Jarama),Consuntivo,Tajo,41.0034172,-3.3008706
+16/01/2024,2024,3,Valdecañas,Tajo,1446,1069,20,73.9,Valdecañas (Tajo),Hidroeléctrico,Tajo,39.8189578,-5.4201377
+16/01/2024,2024,3,Valdeobispo,Alagón,53,50,0,94.3,Valdeobispo (Alagón),Consuntivo,Tajo,40.1168156,-6.2389221
+16/01/2024,2024,3,Valmayor,Aulencia,124,97,2,78.2,Valmayor (Aulencia),Consuntivo,Tajo,40.5458978,-4.0567709
+16/01/2024,2024,3,El Vellón (Pedrezuela),Guadalix,41,33,-1,80.5,El Vellón (Pedrezuela) (Guadalix),Consuntivo,Tajo,40.7619893,-3.6244392
+16/01/2024,2024,3,El Villar,Lozoya,23,20,1,87,El Villar (Lozoya),Consuntivo,Tajo,40.9474275,-3.5630884
+16/01/2024,2024,3,El Aguijón,Alcarrache,11,9,0,81.8,El Aguijón (Alcarrache),Consuntivo,Guadiana,38.4741756,-6.9115221
+16/01/2024,2024,3,Alange,Matachel,852,99,0,11.6,Alange (Matachel),Consuntivo,Guadiana,38.7478671,-6.2482149
+16/01/2024,2024,3,Alcollarín,Alcollarín,52,24,0,46.2,Alcollarín (Alcollarín),Consuntivo,Guadiana,39.2472299,-5.7484747
+16/01/2024,2024,3,Andévalo,Malagón,634,161,0,25.4,Andévalo (Malagón),Consuntivo,Guadiana,37.6229985,-7.3965438
+16/01/2024,2024,3,Boquerón,Rosal,6,5,0,83.3,Boquerón (Rosal),Consuntivo,Guadiana,39.15439909,-6.41718991
+16/01/2024,2024,3,Brovales,Brovales,7,5,0,71.4,Brovales (Brovales),Consuntivo,Guadiana,38.3505771,-6.6831929
+16/01/2024,2024,3,Búrdalo,Búrdalo,79,16,0,20.3,Búrdalo (Búrdalo),Consuntivo,Guadiana,39.1480389,-6.0001328
+16/01/2024,2024,3,Canchales,Lácara,26,27,0,103.8,Canchales (Lácara),Consuntivo,Guadiana,38.9648516,-6.521758
+16/01/2024,2024,3,Cancho del Fresno,Ruecas,15,14,1,93.3,Cancho del Fresno (Ruecas),Consuntivo,Guadiana,39.4020651,-5.3874113
+16/01/2024,2024,3,Chanza,Chanza,338,135,-1,39.9,Chanza (Chanza),Consuntivo,Guadiana,37.5584663,-7.5207942
+16/01/2024,2024,3,Cijara,Guadiana,1505,318,3,21.1,Cijara (Guadiana),Consuntivo,Guadiana,39.3244044,-4.8909681
+16/01/2024,2024,3,Cornalbo,Albarregas,3,1,0,33.3,Cornalbo (Albarregas),Consuntivo,Guadiana,38.9883478,-6.1910614
+16/01/2024,2024,3,Cubilar,Cubilar,6,3,0,50,Cubilar (Cubilar),Consuntivo,Guadiana,39.2429554,-5.4712278
+16/01/2024,2024,3,El Vicario,Guadiana,32,1,0,3.1,El Vicario (Guadiana),Consuntivo,Guadiana,39.059722,-3.995556
+16/01/2024,2024,3,García de Sola,Guadiana,554,298,3,53.8,García de Sola (Guadiana),Consuntivo,Guadiana,39.1683868,-5.2181377
+16/01/2024,2024,3,Gargáligas,Gargáligas,21,13,0,61.9,Gargáligas (Gargáligas),Consuntivo,Guadiana,39.1952478,-5.3547034
+16/01/2024,2024,3,Gasset,Becea,39,10,-1,25.6,Gasset (Becea),Consuntivo,Guadiana,39.1420809,-3.9546877
+16/01/2024,2024,3,Horno Tejero,Lácara,24,22,0,91.7,Horno Tejero (Lácara),Consuntivo,Guadiana,39.1563553,-6.431699
+16/01/2024,2024,3,La Cabezuela,Jabalón,43,1,0,2.3,La Cabezuela (Jabalón),Consuntivo,Guadiana,38.6927002,-3.2775981
+16/01/2024,2024,3,La Colada,Guadamatilla,58,31,-1,53.4,La Colada (Guadamatilla),Consuntivo,Guadiana,38.53469495,-5.009845841
+16/01/2024,2024,3,La Serena,Zújar,3219,458,2,14.2,La Serena (Zújar),Consuntivo,Guadiana,38.9285143,-5.2214477
+16/01/2024,2024,3,Llerena,Conejo,8,1,0,12.5,Llerena (Conejo),Consuntivo,Guadiana,38.3087412,-5.9105957
+16/01/2024,2024,3,Los Molinos,Matachel,34,4,0,11.8,Los Molinos (Matachel),Consuntivo,Guadiana,28.5205028,-14.0368211
+16/01/2024,2024,3,Montijo,Guadiana,11,2,0,18.2,Montijo (Guadiana),Consuntivo,Guadiana,38.933125,-6.4090668
+16/01/2024,2024,3,Nogales,Nogales,18,12,0,66.7,Nogales (Nogales),Consuntivo,Guadiana,38.5563327,-6.726593292
+16/01/2024,2024,3,Orellana,Guadiana,808,476,0,58.9,Orellana (Guadiana),Consuntivo,Guadiana,39.0324017,-5.3965729
+16/01/2024,2024,3,Peñarroya,Guadiana,51,35,0,68.6,Peñarroya (Guadiana),Consuntivo,Guadiana,39.037396,-2.9663075
+16/01/2024,2024,3,Piedra Aguda,Olivenza,16,9,0,56.2,Piedra Aguda (Olivenza),Consuntivo,Guadiana,38.6630572,-7.0296822
+16/01/2024,2024,3,Proserpina,Pardilla,5,5,0,100,Proserpina (Pardilla),Consuntivo,Guadiana,38.971986,-6.3638269
+16/01/2024,2024,3,Pto. Vallehermoso,Azuer,7,5,0,71.4,Pto. Vallehermoso (Azuer),Consuntivo,Guadiana,38.8602117,-3.1616515
+16/01/2024,2024,3,Ruecas,Ruecas,42,29,0,69,Ruecas (Ruecas),Consuntivo,Guadiana,39.2696833,-5.4975809
+16/01/2024,2024,3,Sierra Brava,Pizarroso,233,63,1,27,Sierra Brava (Pizarroso),Consuntivo,Guadiana,39.2315102,-5.6300233
+16/01/2024,2024,3,Tentudia,Bodión,5,1,0,20,Tentudia (Bodión),Consuntivo,Guadiana,38.0935964,-6.3179551
+16/01/2024,2024,3,Torre de Abrahán,Bullaque,183,16,0,8.7,Torre de Abrahán (Bullaque),Consuntivo,Guadiana,39.3745771,-4.2477779
+16/01/2024,2024,3,Valuengo,Ardila,20,11,0,55,Valuengo (Ardila),Consuntivo,Guadiana,38.3048965,-6.6678214
+16/01/2024,2024,3,Vega del Jabalón,Jabalón,34,0,0,0,Vega del Jabalón (Jabalón),Consuntivo,Guadiana,38.7741412,-3.7752572
+16/01/2024,2024,3,Villalba de los Barros,Guadajira,106,41,0,38.7,Villalba de los Barros (Guadajira),Consuntivo,Guadiana,38.5820754,-6.5051827
+16/01/2024,2024,3,Villar del Rey,Zapatón,131,116,-2,88.5,Villar del Rey (Zapatón),Consuntivo,Guadiana,39.1525537,-6.8673821
+16/01/2024,2024,3,Zújar,Zújar,302,84,0,27.8,Zújar (Zújar),Consuntivo,Guadiana,38.916944,-5.478889
+16/01/2024,2024,3,Agrio (Aznalcollar),Agrio,20,10,0,50,Agrio (Aznalcollar) (Agrio),Consuntivo,Guadalquivir,37.5344953,-6.2913782
+16/01/2024,2024,3,Aguascebas,Aguascebas,6,3,0,50,Aguascebas (Aguascebas),Consuntivo,Guadalquivir,38.0440983,-2.9506893
+16/01/2024,2024,3,Aracena,Rivera de Huelva,129,31,0,24,Aracena (Rivera de Huelva),Consuntivo,Guadalquivir,37.9115055,-6.4606667
+16/01/2024,2024,3,Arenoso,Arenoso,167,24,0,14.4,Arenoso (Arenoso),Consuntivo,Guadalquivir,40.0938706,-0.5596874
+16/01/2024,2024,3,Bembézar,Bembézar,328,35,-1,10.7,Bembézar (Bembézar),Consuntivo,Guadalquivir,37.977222,-5.302278
+16/01/2024,2024,3,Bermejales,Cacín,91,14,1,15.4,Bermejales (Cacín),Consuntivo,Guadalquivir,36.9846076,-3.8884417
+16/01/2024,2024,3,La Bolera,Guadalentín,54,12,1,22.2,La Bolera (Guadalentín),Consuntivo,Guadalquivir,37.7799373,-2.8963776
+16/01/2024,2024,3,La Breña II,Guadiato,823,92,0,11.2,La Breña II (Guadiato),Consuntivo,Guadalquivir,37.845556,-5.050556
+16/01/2024,2024,3,Cala,Rivera de Cala,59,23,-1,39,Cala (Rivera de Cala),Hidroeléctrico,Guadalquivir,37.7113698,-6.1043336
+16/01/2024,2024,3,Canales,Genil,70,32,-1,45.7,Canales (Genil),Consuntivo,Guadalquivir,37.1569777,-3.4687701
+16/01/2024,2024,3,Colomera,Colomera,40,4,0,10,Colomera (Colomera),Consuntivo,Guadalquivir,37.4031614,-3.7193936
+16/01/2024,2024,3,Cubillas,Cubillas,14,6,0,42.9,Cubillas (Cubillas),Consuntivo,Guadalquivir,37.2765577,-3.6711972
+16/01/2024,2024,3,El Portillo,Castril,31,11,0,35.5,El Portillo (Castril),Consuntivo,Guadalquivir,37.805833,-2.788889
+16/01/2024,2024,3,La Fernandina,Guarrizas,247,69,0,27.9,La Fernandina (Guarrizas),Consuntivo,Guadalquivir,38.2070039,-3.5736771
+16/01/2024,2024,3,Francisco Abellán,Fardes,58,8,0,13.8,Francisco Abellán (Fardes),Consuntivo,Guadalquivir,37.3076425,-3.2703078
+16/01/2024,2024,3,Fresneda,Fresneda,19,6,0,31.6,Fresneda (Fresneda),Consuntivo,Guadalquivir,38.543501,-3.6179809
+16/01/2024,2024,3,Gergal,Rivera de Huelva,35,23,1,65.7,Gergal (Rivera de Huelva),Consuntivo,Guadalquivir,37.570278,-6.049167
+16/01/2024,2024,3,Giribaile,Guadalimar,491,82,1,16.7,Giribaile (Guadalimar),Consuntivo,Guadalquivir,38.1100868,-3.4624575
+16/01/2024,2024,3,Guadalén,Guadalén,163,25,0,15.3,Guadalén (Guadalén),Consuntivo,Guadalquivir,38.1890877,-3.4675075
+16/01/2024,2024,3,Guadalmellato,Guadalmellato,147,39,-1,26.5,Guadalmellato (Guadalmellato),Consuntivo,Guadalquivir,36.5317916,-5.0456649
+16/01/2024,2024,3,Guadalmena,Guadalmena,345,57,0,16.5,Guadalmena (Guadalmena),Consuntivo,Guadalquivir,38.3417516,-2.9342041
+16/01/2024,2024,3,Huesna,Rivera de Huesna,135,44,0,32.6,Huesna (Rivera de Huesna),Consuntivo,Guadalquivir,37.7844201,-5.6891891
+16/01/2024,2024,3,Iznájar,Genil,920,163,3,17.7,Iznájar (Genil),Consuntivo,Guadalquivir,37.258424,-4.3282595
+16/01/2024,2024,3,Jándula,Jándula,325,64,0,19.7,Jándula (Jándula),Consuntivo,Guadalquivir,38.2587298,-3.9342953
+16/01/2024,2024,3,José Torán,Guadalbarcar,101,17,0,16.8,José Torán (Guadalbarcar),Consuntivo,Guadalquivir,37.7698817,-5.4646753
+16/01/2024,2024,3,Martín Gonzalo,Martín Gonzalo,20,2,0,10,Martín Gonzalo (Martín Gonzalo),Consuntivo,Guadalquivir,38.0917293,-4.3391429
+16/01/2024,2024,3,Los Melonares,Viar,186,76,-1,40.9,Los Melonares (Viar),Consuntivo,Guadalquivir,37.765257,-5.890794
+16/01/2024,2024,3,La Minilla,Rivera de Huelva,58,30,-1,51.7,La Minilla (Rivera de Huelva),Consuntivo,Guadalquivir,37.6893836,-6.1957953
+16/01/2024,2024,3,Montoro,Montoro,105,21,0,20,Montoro (Montoro),Consuntivo,Guadalquivir,38.5479507,-4.1193959
+16/01/2024,2024,3,Negratín,Guadiana Menor,571,121,1,21.2,Negratín (Guadiana Menor),Consuntivo,Guadalquivir,37.5928463,-2.8315345
+16/01/2024,2024,3,El Pintado,Viar,215,43,0,20,El Pintado (Viar),Consuntivo,Guadalquivir,37.9869909,-5.9554931
+16/01/2024,2024,3,Puebla de Cazalla,Carbones,63,0,0,0,Puebla de Cazalla (Carbones),Consuntivo,Guadalquivir,37.1223564,-5.2201428
+16/01/2024,2024,3,Puente Nuevo,Guadiato,281,32,0,11.4,Puente Nuevo (Guadiato),Consuntivo,Guadalquivir,38.1022203,-4.9402863
+16/01/2024,2024,3,Quéntar,Aguas Blancas,14,7,0,50,Quéntar (Aguas Blancas),Consuntivo,Guadalquivir,37.2081452,-3.4340605
+16/01/2024,2024,3,Quiebrajano,Quiebrajano,33,5,-1,15.2,Quiebrajano (Quiebrajano),Consuntivo,Guadalquivir,37.6292053,-3.7270077
+16/01/2024,2024,3,Retortillo,Retortillo,61,7,0,11.5,Retortillo (Retortillo),Consuntivo,Guadalquivir,37.8522348,-5.3717092
+16/01/2024,2024,3,Rumblar,Rumblar,140,23,0,16.4,Rumblar (Rumblar),Consuntivo,Guadalquivir,38.1606598,-3.8054551
+16/01/2024,2024,3,San Clemente,Guardal,117,10,0,8.5,San Clemente (Guardal),Consuntivo,Guadalquivir,37.85925104,-2.650089333
+16/01/2024,2024,3,San Rafael de Navallana,Guadalmellato,156,63,0,40.4,San Rafael de Navallana (Guadalmellato),Consuntivo,Guadalquivir,37.9896207,-4.6256661
+16/01/2024,2024,3,Sierra Boyera,Guadiato,39,1,0,2.6,Sierra Boyera (Guadiato),Consuntivo,Guadalquivir,38.2744896,-5.2488573
+16/01/2024,2024,3,Siles,Guadalimar,30,12,0,40,Siles (Guadalimar),Consuntivo,Guadalquivir,38.4041926,-2.6127794
+16/01/2024,2024,3,Torre del Águila,Salado,48,1,-1,2.1,Torre del Águila (Salado),Consuntivo,Guadalquivir,37.0422769,-5.7616899
+16/01/2024,2024,3,Tranco de Beas,Guadalquivir,506,124,1,24.5,Tranco de Beas (Guadalquivir),Consuntivo,Guadalquivir,38.1286111,-2.7758333
+16/01/2024,2024,3,Vadomojón,Guadajoz,146,12,0,8.2,Vadomojón (Guadajoz),Consuntivo,Guadalquivir,37.6350312,-4.2256464
+16/01/2024,2024,3,Víboras,Víboras,17,4,0,23.5,Víboras (Víboras),Consuntivo,Guadalquivir,37.6391274,-4.002863589
+16/01/2024,2024,3,Yeguas,Yeguas,229,38,0,16.6,Yeguas (Yeguas),Consuntivo,Guadalquivir,38.06873787,-4.251560429
+16/01/2024,2024,3,Zufre,Rivera de Huelva,175,25,0,14.3,Zufre (Rivera de Huelva),Consuntivo,Guadalquivir,37.8275653,-6.297357
+16/01/2024,2024,3,Benínar,Grande de Adra,63,5,0,7.9,Benínar (Grande de Adra),Consuntivo,Cuenca Mediterránea Andaluza,36.8825,-3.025278
+16/01/2024,2024,3,Béznar,Izbor,53,24,0,45.3,Béznar (Izbor),Consuntivo,Cuenca Mediterránea Andaluza,36.921389,-3.552222
+16/01/2024,2024,3,Casasola,Campanillas,22,6,0,27.3,Casasola (Campanillas),Consuntivo,Cuenca Mediterránea Andaluza,36.8047367,-4.4956469
+16/01/2024,2024,3,Charco Redondo,Palmones,82,14,0,17.1,Charco Redondo (Palmones),Consuntivo,Cuenca Mediterránea Andaluza,36.253889,-5.565
+16/01/2024,2024,3,Concepción,Verde de Marbella,62,13,0,21,Concepción (Verde de Marbella),Consuntivo,Cuenca Mediterránea Andaluza,36.55097239,-4.962816317
+16/01/2024,2024,3,Conde Guadalhorce,Turón,66,11,0,16.7,Conde Guadalhorce (Turón),Consuntivo,Cuenca Mediterránea Andaluza,36.9336403,-4.8035353
+16/01/2024,2024,3,Cuevas de Almanzora,Almanzora,161,16,0,9.9,Cuevas de Almanzora (Almanzora),Consuntivo,Cuenca Mediterránea Andaluza,37.3315192,-1.8964922
+16/01/2024,2024,3,Guadalhorce-Guadalteba,Gudalhorce-Guadalteba,279,51,-2,18.3,Guadalhorce-Guadalteba (Gudalhorce-Guadalteba),Consuntivo,Cuenca Mediterránea Andaluza,36.9551122,-4.8391015
+16/01/2024,2024,3,Guadarranque,Guadarranque,88,24,0,27.3,Guadarranque (Guadarranque),Consuntivo,Cuenca Mediterránea Andaluza,36.318611,-5.468333
+16/01/2024,2024,3,Limonero,Guadalmedina,22,5,0,22.7,Limonero (Guadalmedina),Consuntivo,Cuenca Mediterránea Andaluza,36.7703091,-4.4317144
+16/01/2024,2024,3,Rules,Guadalfeo,111,35,0,31.5,Rules (Guadalfeo),Consuntivo,Cuenca Mediterránea Andaluza,36.8598329,-3.4953143
+16/01/2024,2024,3,La Viñuela,Guaro,165,12,0,7.3,La Viñuela (Guaro),Consuntivo,Cuenca Mediterránea Andaluza,36.8785087,-4.1692941
+16/01/2024,2024,3,Alfonso XIII,Quípar,22,6,0,27.3,Alfonso XIII (Quípar),Consuntivo,Segura,38.2146862,-1.6044591
+16/01/2024,2024,3,Algeciras,Algeciras,45,4,0,8.9,Algeciras (Algeciras),Consuntivo,Segura,37.8921029,-1.3915491
+16/01/2024,2024,3,Anchuricas,Segura,6,6,1,100,Anchuricas (Segura),Hidroeléctrico,Segura,38.1958611,-2.5430087
+16/01/2024,2024,3,Argos,Argos,10,7,0,70,Argos (Argos),Consuntivo,Segura,38.1685604,-1.7398895
+16/01/2024,2024,3,Camarillas,Mundo,36,15,-1,41.7,Camarillas (Mundo),Consuntivo,Segura,38.3605308,-1.6347878
+16/01/2024,2024,3,Cenajo,Segura,437,61,1,14,Cenajo (Segura),Consuntivo,Segura,38.3655089,-1.7760541
+16/01/2024,2024,3,La Cierva,Mula,7,4,0,57.1,La Cierva (Mula),Consuntivo,Segura,38.0611831,-1.4865835
+16/01/2024,2024,3,Crevillente,Rambla de Bosch,13,6,0,46.2,Crevillente (Rambla de Bosch),Consuntivo,Segura,38.259215,-0.7919174
+16/01/2024,2024,3,Fuensanta,Segura,210,16,0,7.6,Fuensanta (Segura),Consuntivo,Segura,38.4066732,-2.2642702
+16/01/2024,2024,3,La Pedrera,Dep.Arr.Grande,246,54,1,22,La Pedrera (Dep.Arr.Grande),Consuntivo,Segura,38.0338723,-0.8710856
+16/01/2024,2024,3,Puentes,Guadalentín,26,13,0,50,Puentes (Guadalentín),Consuntivo,Segura,37.7347408,-1.8192253
+16/01/2024,2024,3,Santomera,Rambla Salada,26,4,1,15.4,Santomera (Rambla Salada),Consuntivo,Segura,38.1044371,-1.0913243
+16/01/2024,2024,3,Taibilla,Taibilla,9,6,0,66.7,Taibilla (Taibilla),Consuntivo,Segura,38.1881201,-2.2593466
+16/01/2024,2024,3,Talave,Mundo,35,9,-3,25.7,Talave (Mundo),Consuntivo,Segura,40.0001945,-4.8423417
+16/01/2024,2024,3,Valdeinfierno,Alcaide,12,0,0,0,Valdeinfierno (Alcaide),Consuntivo,Segura,37.8109247,-1.9710284
+16/01/2024,2024,3,Alarcón,Júcar,1118,586,3,52.4,Alarcón (Júcar),Consuntivo,Júcar,39.5642464,-2.1120991
+16/01/2024,2024,3,Algar,Palancia,6,0,0,0,Algar (Palancia),Consuntivo,Júcar,39.7879092,-0.3765436
+16/01/2024,2024,3,Amadorio,Amadorio,16,4,0,25,Amadorio (Amadorio),Consuntivo,Júcar,38.535209,-0.2632115
+16/01/2024,2024,3,Arenós,Mijares,137,48,1,35,Arenós (Mijares),Consuntivo,Júcar,40.0938706,-0.5596874
+16/01/2024,2024,3,Arquillo de San Blas,Turia,21,14,0,66.7,Arquillo de San Blas (Turia),Consuntivo,Júcar,40.3643728,-1.2056573
+16/01/2024,2024,3,Bellús,Albaida,69,17,1,24.6,Bellús (Albaida),Consuntivo,Júcar,38.9312654,-0.4755993
+16/01/2024,2024,3,Benagéber,Turia,221,136,-2,61.5,Benagéber (Turia),Consuntivo,Júcar,39.7419003,-1.1137191
+16/01/2024,2024,3,Beniarrés,Serpis,27,7,0,25.9,Beniarrés (Serpis),Consuntivo,Júcar,38.8149329,-0.3561709
+16/01/2024,2024,3,Buseo,Sot de Chera,8,1,0,12.5,Buseo (Sot de Chera),Consuntivo,Júcar,39.594722,-0.938611
+16/01/2024,2024,3,Contreras,Cabriel,361,229,0,63.4,Contreras (Cabriel),Consuntivo,Júcar,39.5928206,-1.5232832
+16/01/2024,2024,3,Cortes II,Júcar,118,109,0,92.4,Cortes II (Júcar),Hidroeléctrico,Júcar,39.2620263,-0.9183368
+16/01/2024,2024,3,El Naranjero,Júcar,29,24,-1,82.8,El Naranjero (Júcar),Consuntivo,Júcar,39.275282,-0.8609602
+16/01/2024,2024,3,Escalona,Escalona,99,5,0,5.1,Escalona (Escalona),Consuntivo,Júcar,39.1281706,-0.7063724
+16/01/2024,2024,3,Forata,Magro,37,10,0,27,Forata (Magro),Consuntivo,Júcar,39.3420541,-0.8663219
+16/01/2024,2024,3,Guadalest,Guadalest,13,6,0,46.2,Guadalest (Guadalest),Consuntivo,Júcar,38.6836086,-0.2004374
+16/01/2024,2024,3,La Muela,Júcar,20,7,1,35,La Muela (Júcar),Hidroeléctrico,Júcar,39.2620263,-0.9183368
+16/01/2024,2024,3,La Toba,Júcar,10,4,-2,40,La Toba (Júcar),Hidroeléctrico,Júcar,40.2082812,-1.9068708
+16/01/2024,2024,3,Loriguilla,Turia,73,23,2,31.5,Loriguilla (Turia),Consuntivo,Júcar,39.675286,-0.9187842
+16/01/2024,2024,3,María Cristina,Rambla Viuda,18,2,0,11.1,María Cristina (Rambla Viuda),Consuntivo,Júcar,40.0356395,-0.1606176
+16/01/2024,2024,3,Regajo,Palancia,6,1,0,16.7,Regajo (Palancia),Consuntivo,Júcar,39.8933544,-0.5275546
+16/01/2024,2024,3,Sichar,Mijares,49,10,-1,20.4,Sichar (Mijares),Consuntivo,Júcar,40.0156221,-0.2420576
+16/01/2024,2024,3,Tous - La Ribera,Júcar,379,68,2,17.9,Tous - La Ribera (Júcar),Consuntivo,Júcar,39.145556,-0.66
+16/01/2024,2024,3,Ulldecona,Cenia,11,2,0,18.2,Ulldecona (Cenia),Consuntivo,Júcar,40.6709516,0.230844
+16/01/2024,2024,3,Albiña,Albiña,5,3,0,60,Albiña (Albiña),Consuntivo,Ebro,43.0027839,-2.6276116
+16/01/2024,2024,3,Alcañiz (Estanca),Guadalope,7,6,0,85.7,Alcañiz (Estanca) (Guadalope),Consuntivo,Ebro,41.0613889,-0.1911111
+16/01/2024,2024,3,Alloz,Salado,66,55,1,83.3,Alloz (Salado),Consuntivo,Ebro,42.7218764,-1.936573
+16/01/2024,2024,3,Barasona,Ésera,85,51,-8,60,Barasona (Ésera),Consuntivo,Ebro,42.1411111,0.3261111
+16/01/2024,2024,3,Baserca,Noguera-Ribagorzana,22,13,0,59.1,Baserca (Noguera-Ribagorzana),Hidroeléctrico,Ebro,42.5913193,0.7615995
+16/01/2024,2024,3,Búbal,Gállego,63,45,2,71.4,Búbal (Gállego),Consuntivo,Ebro,42.7010756,-0.312503
+16/01/2024,2024,3,Calanda,Guadalope,54,22,-1,40.7,Calanda (Guadalope),Consuntivo,Ebro,40.9067308,-0.2092267
+16/01/2024,2024,3,Camarasa,Noguera-Pallaresa,163,112,17,68.7,Camarasa (Noguera-Pallaresa),Hidroeléctrico,Ebro,41.9350644,0.8567905
+16/01/2024,2024,3,Canelles,Noguera-Ribagorzana,679,142,4,20.9,Canelles (Noguera-Ribagorzana),Hidroeléctrico,Ebro,41.9784145,0.61246
+16/01/2024,2024,3,Cañón de Santolea,Guadalope,82,9,0,11,Cañón de Santolea (Guadalope),Consuntivo,Ebro,40.74701808,-0.3429994371
+16/01/2024,2024,3,Caspe,Guadalope,82,39,0,47.6,Caspe (Guadalope),Consuntivo,Ebro,41.1212587,-0.0244872
+16/01/2024,2024,3,Cavallers,Noguera de Tort,16,7,0,43.8,Cavallers (Noguera de Tort),Hidroeléctrico,Ebro,42.5906494,0.8567905
+16/01/2024,2024,3,Certescáns,Certescáns,16,8,-1,50,Certescáns (Certescáns),Hidroeléctrico,Ebro,42.703887,1.3065128
+16/01/2024,2024,3,Ciurana,Ciurana,12,0,0,0,Ciurana (Ciurana),Consuntivo,Ebro,41.2508273,0.9126746
+16/01/2024,2024,3,Cueva Foradada,Martín,22,14,0,63.6,Cueva Foradada (Martín),Consuntivo,Ebro,40.9704816,-0.6950987
+16/01/2024,2024,3,Ebro,Ebro,541,153,3,28.3,Ebro (Ebro),Consuntivo,Ebro,43.0206347,-3.9164585
+16/01/2024,2024,3,Enciso,Cidacos,46,2,0,4.3,Enciso (Cidacos),Hidroeléctrico,Ebro,42.1424966,-2.2791905
+16/01/2024,2024,3,Escales,Noguera-Ribagorzana,152,99,-6,65.1,Escales (Noguera-Ribagorzana),Hidroeléctrico,Ebro,42.3259265,0.742902
+16/01/2024,2024,3,Eúgui,Arga,21,17,0,81,Eúgui (Arga),Consuntivo,Ebro,42.980229370000004,-1.517479955
+16/01/2024,2024,3,González Lacasa,Albercos,33,20,0,60.6,González Lacasa (Albercos),Consuntivo,Ebro,42.1748087,-2.672963858
+16/01/2024,2024,3,El Grado,Cinca,400,386,3,96.5,El Grado (Cinca),Consuntivo,Ebro,42.313333,0.210833
+16/01/2024,2024,3,Guiamets,Asmat,10,1,0,10,Guiamets (Asmat),Consuntivo,Ebro,41.0954794,0.7598168
+16/01/2024,2024,3,Ip,Barranco de Ip,5,3,-1,60,Ip (Barranco de Ip),Hidroeléctrico,Ebro,42.72138964,-0.4562028942
+16/01/2024,2024,3,Irabia,Irati,14,8,-1,57.1,Irabia (Irati),Hidroeléctrico,Ebro,42.9900764,-1.1466976
+16/01/2024,2024,3,Itoiz,Irati,417,319,-6,76.5,Itoiz (Irati),Consuntivo,Ebro,42.8014564,-1.3635333
+16/01/2024,2024,3,Lanuza,Gállego,17,8,-3,47.1,Lanuza (Gállego),Consuntivo,Ebro,42.75,-0.3
+16/01/2024,2024,3,Las Fitas,Barranco Carnerario,9,2,0,22.2,Las Fitas (Barranco Carnerario),Consuntivo,Ebro,41.7967617,-0.0608234
+16/01/2024,2024,3,Laverné,Barranco Vitale,38,34,0,89.5,Laverné (Barranco Vitale),Consuntivo,Ebro,42.09310316,-1.088138382
+16/01/2024,2024,3,Lechago,Pancrudo,18,6,0,33.3,Lechago (Pancrudo),Consuntivo,Ebro,40.9621474,-1.2969289
+16/01/2024,2024,3,Llauset,Llauset,17,10,-3,58.8,Llauset (Llauset),Hidroeléctrico,Ebro,42.5838189,0.6885733
+16/01/2024,2024,3,La Loteta,Derivación Canal Imperial,104,41,0,39.4,La Loteta (Derivación Canal Imperial),Consuntivo,Ebro,41.8189369,-1.3240277
+16/01/2024,2024,3,Maidevera,Aranda,20,7,1,35,Maidevera (Aranda),Consuntivo,Ebro,41.5815582,-1.7575326
+16/01/2024,2024,3,Mansilla,Najerilla,68,56,-1,82.4,Mansilla (Najerilla),Consuntivo,Ebro,42.1581337,-2.9115927
+16/01/2024,2024,3,Mediano,Cinca,435,331,-4,76.1,Mediano (Cinca),Consuntivo,Ebro,42.3420153,0.1939932
+16/01/2024,2024,3,Mequinenza,Ebro,1373,1103,26,80.3,Mequinenza (Ebro),Hidroeléctrico,Ebro,41.3835966,0.1237623
+16/01/2024,2024,3,Moneva,Aguas Vivas,8,2,0,25,Moneva (Aguas Vivas),Consuntivo,Ebro,41.1788705,-0.8316601
+16/01/2024,2024,3,Monteagudo,Nájima,10,5,0,50,Monteagudo (Nájima),Consuntivo,Ebro,41.3883333,-2.1819444
+16/01/2024,2024,3,Montearagón,Flumen,52,13,1,25,Montearagón (Flumen),Consuntivo,Ebro,42.1854,-0.3633612
+16/01/2024,2024,3,Nagore,Urrobi,5,5,0,100,Nagore (Urrobi),Consuntivo,Ebro,42.8014564,-1.3635333
+16/01/2024,2024,3,Oliana,Segre,84,40,-3,47.6,Oliana (Segre),Consuntivo,Ebro,42.1189708,1.3071642
+16/01/2024,2024,3,Pajares,Lumbreras,35,14,0,40,Pajares (Lumbreras),Consuntivo,Ebro,42.0821421,-2.6028036
+16/01/2024,2024,3,Las Parras,Martín,5,4,0,80,Las Parras (Martín),Consuntivo,Ebro,40.8274315,-0.9202637841
+16/01/2024,2024,3,Pena,Pena,18,9,0,50,Pena (Pena),Consuntivo,Ebro,40.85701495,0.1266525806
+16/01/2024,2024,3,La Peña,Gállego,15,10,0,66.7,La Peña (Gállego),Consuntivo,Ebro,42.38462629,-0.716742773
+16/01/2024,2024,3,Puente de Santolea,Guadalope,18,8,0,44.4,Puente de Santolea (Guadalope),Consuntivo,Ebro,40.755,-0.3258333
+16/01/2024,2024,3,Rialb,Segre,404,107,1,26.5,Rialb (Segre),Consuntivo,Ebro,41.9399743,1.1933618
+16/01/2024,2024,3,Ribarroja,Ebro,210,196,-4,93.3,Ribarroja (Ebro),Hidroeléctrico,Ebro,41.3216866,0.3618904
+16/01/2024,2024,3,Sallente,Flamisell,6,4,1,66.7,Sallente (Flamisell),Hidroeléctrico,Ebro,42.503113,0.9908288
+16/01/2024,2024,3,San Bartolomé,Arba,6,5,0,83.3,San Bartolomé (Arba),Consuntivo,Ebro,42.216303,-1.1514966
+16/01/2024,2024,3,San Lorenzo,Segre,10,9,0,90,San Lorenzo (Segre),Hidroeléctrico,Ebro,41.867873,0.8410091
+16/01/2024,2024,3,San Salvador,Arroyo la Clamor,137,130,2,94.9,San Salvador (Arroyo la Clamor),Consuntivo,Ebro,41.7806104,0.1976587
+16/01/2024,2024,3,Santa Ana,Noguera-Ribagorzana,237,129,6,54.4,Santa Ana (Noguera-Ribagorzana),Consuntivo,Ebro,41.9007222,0.5991042
+16/01/2024,2024,3,Santa María de Belsué,Flumen,14,1,0,7.1,Santa María de Belsué (Flumen),Consuntivo,Ebro,42.3065687,-0.3483614
+16/01/2024,2024,3,Santolea,Guadalope,5,2,0,40,Santolea (Guadalope),Consuntivo,Ebro,40.755,-0.3258333
+16/01/2024,2024,3,Sistema Aguas Limpias,Aguas Limpias,18,6,0,33.3,Sistema Aguas Limpias (Aguas Limpias),Hidroeléctrico,Ebro,42.79306613,-0.3274258378
+16/01/2024,2024,3,Sistema Alto Caldarés,Caldarés,18,4,0,22.2,Sistema Alto Caldarés (Caldarés),Hidroeléctrico,Ebro,42.3127257,0.7424884
+16/01/2024,2024,3,Sistema Capdella,Flamisell,50,30,0,60,Sistema Capdella (Flamisell),Hidroeléctrico,Ebro,42.503113,0.9908288
+16/01/2024,2024,3,Sistema Escarra,Escarra,5,1,0,20,Sistema Escarra (Escarra),Hidroeléctrico,Ebro,42.7323188,-0.4391695
+16/01/2024,2024,3,Sistema Lagos Espot,Espot,10,9,0,90,Sistema Lagos Espot (Espot),Hidroeléctrico,Ebro,42.5815064,1.0029834
+16/01/2024,2024,3,Sistema Valle de Arán,Valartíes,22,8,0,36.4,Sistema Valle de Arán (Valartíes),Hidroeléctrico,Ebro,42.503113,0.9908288
+16/01/2024,2024,3,Sobrón,Ebro,20,16,-1,80,Sobrón (Ebro),Hidroeléctrico,Ebro,42.759444,-3.155278
+16/01/2024,2024,3,Sotonera,Sotón,189,177,1,93.7,Sotonera (Sotón),Consuntivo,Ebro,42.1107767,-0.682049
+16/01/2024,2024,3,Terradets,Noguera-Pallaresa,33,32,0,97,Terradets (Noguera-Pallaresa),Hidroeléctrico,Ebro,42.0482574,0.8930183
+16/01/2024,2024,3,Terroba,Leza,8,1,0,12.5,Terroba (Leza),Consuntivo,Ebro,42.2571295,-2.4448422
+16/01/2024,2024,3,Las Torcas,Huerva,7,1,0,14.3,Las Torcas (Huerva),Consuntivo,Ebro,41.2888427,-1.0951427
+16/01/2024,2024,3,La Tranquera,Piedra,82,36,1,43.9,La Tranquera (Piedra),Consuntivo,Ebro,41.2382131,-1.784315
+16/01/2024,2024,3,Tremp ó Talárn,Noguera-Pallaresa,227,130,-18,57.3,Tremp ó Talárn (Noguera-Pallaresa),Hidroeléctrico,Ebro,42.1799407,0.9132852
+16/01/2024,2024,3,Ullivarri,Zadorra,146,119,5,81.5,Ullivarri (Zadorra),Hidroeléctrico,Ebro,42.92929,-2.6164596
+16/01/2024,2024,3,Urdalur,Alzama,6,5,0,83.3,Urdalur (Alzama),Consuntivo,Ebro,42.9144488,-2.2365821
+16/01/2024,2024,3,Urdiceto,Urdiceto,5,2,0,40,Urdiceto (Urdiceto),Hidroeléctrico,Ebro,42.677114,0.271321
+16/01/2024,2024,3,Urrunaga,Sta.Engracia,72,44,-10,61.1,Urrunaga (Sta.Engracia),Hidroeléctrico,Ebro,42.976738,-2.6511914
+16/01/2024,2024,3,Vadiello,Guatizalema,16,6,0,37.5,Vadiello (Guatizalema),Consuntivo,Ebro,42.2423876,-0.2752098
+16/01/2024,2024,3,El Val,Val,24,11,1,45.8,El Val (Val),Consuntivo,Ebro,41.88091875,-1.803359043
+16/01/2024,2024,3,Valdepatao,Cinca,6,1,0,16.7,Valdepatao (Cinca),Consuntivo,Ebro,41.5030536,0.0621343
+16/01/2024,2024,3,Yesa,Aragón,447,380,8,85,Yesa (Aragón),Consuntivo,Ebro,42.6069069,-1.1041302
+16/01/2024,2024,3,Boadella,Muga,61,8,0,13.1,Boadella (Muga),Consuntivo,Cuencas Internas de Cataluña,42.3481674,2.8215666
+16/01/2024,2024,3,La Baells,Llobregat,109,24,0,22,La Baells (Llobregat),Consuntivo,Cuencas Internas de Cataluña,42.1358767,1.8720815
+16/01/2024,2024,3,La Llosa del Cavall,Cardener,80,14,0,17.5,La Llosa del Cavall (Cardener),Consuntivo,Cuencas Internas de Cataluña,42.1195448,1.6038527
+16/01/2024,2024,3,Riudecanyes,Riudecanyes,5,0,0,0,Riudecanyes (Riudecanyes),Consuntivo,Cuencas Internas de Cataluña,41.1336068,0.9589598
+16/01/2024,2024,3,Sant Pons,Cardener,24,7,0,29.2,Sant Pons (Cardener),Consuntivo,Cuencas Internas de Cataluña,41.9717308,1.6020337
+16/01/2024,2024,3,Sau,Ter,165,10,-2,6.1,Sau (Ter),Consuntivo,Cuencas Internas de Cataluña,41.9717273,2.3887675
+16/01/2024,2024,3,Susqueda,Ter,233,49,1,21,Susqueda (Ter),Consuntivo,Cuencas Internas de Cataluña,41.9794496,2.5273756
+16/01/2024,2024,3,Barrie de la Maza,Tambre,31,24,0,77.4,Barrie de la Maza (Tambre),Hidroeléctrico,Galicia Costa,42.8727676,-8.7584426
+16/01/2024,2024,3,Cecebre,Mero,22,13,0,59.1,Cecebre (Mero),Consuntivo,Galicia Costa,43.2789695,-8.2801065
+16/01/2024,2024,3,Eiras,Oitavén,22,17,0,77.3,Eiras (Oitavén),Consuntivo,Galicia Costa,42.3461379,-8.4903865
+16/01/2024,2024,3,Eume,Eume,123,123,0,100,Eume (Eume),Hidroeléctrico,Galicia Costa,43.3763925,-7.9906232
+16/01/2024,2024,3,Fervenza,Jallas,103,78,-10,75.7,Fervenza (Jallas),Hidroeléctrico,Galicia Costa,42.9883258,-9.011193
+16/01/2024,2024,3,As Forcadas,Forcadas,11,8,0,72.7,As Forcadas (Forcadas),Consuntivo,Galicia Costa,43.615921,-8.0860452
+16/01/2024,2024,3,Portodemouros,Ulla,297,269,-6,90.6,Portodemouros (Ulla),Hidroeléctrico,Galicia Costa,42.8388311,-8.1297595
+16/01/2024,2024,3,A Ribeira,Eume,33,24,-1,72.7,A Ribeira (Eume),Hidroeléctrico,Galicia Costa,43.4645599,-7.8245578
+16/01/2024,2024,3,Riocobo,Cobo,6,4,0,66.7,Riocobo (Cobo),Consuntivo,Galicia Costa,42.9187167,-8.0570889
+16/01/2024,2024,3,Sta Uxia,Jallas,18,11,-1,61.1,Sta Uxia (Jallas),Hidroeléctrico,Galicia Costa,42.9147906,-9.1041597
+16/01/2024,2024,3,Villagudín,Veduino,18,17,0,94.4,Villagudín (Veduino),Consuntivo,Galicia Costa,43.1017291,-8.4993394
+16/01/2024,2024,3,Alfilorios,Barrea,8,5,0,62.5,Alfilorios (Barrea),Consuntivo,Cantábrico Occidental,43.2917805,-5.917858
+16/01/2024,2024,3,Alsa - Mediajo,Torina,22,16,-1,72.7,Alsa - Mediajo (Torina),Hidroeléctrico,Cantábrico Occidental,43.0911978,-4.0179146
+16/01/2024,2024,3,Añarbe,Añarbe,38,31,2,81.6,Añarbe (Añarbe),Consuntivo,Cantábrico Oriental,43.2205115,-1.8751321
+16/01/2024,2024,3,Arbón,Navia,41,38,-1,92.7,Arbón (Navia),Hidroeléctrico,Cantábrico Occidental,43.4770527,-6.7302435
+16/01/2024,2024,3,La Barca,Narcea,34,16,-1,47.1,La Barca (Narcea),Hidroeléctrico,Cantábrico Occidental,43.320391,-6.3036271
+16/01/2024,2024,3,La Cohilla,Nansa,12,4,0,33.3,La Cohilla (Nansa),Hidroeléctrico,Cantábrico Occidental,43.13344738,-4.390247849
+16/01/2024,2024,3,Doiras,Navia,97,73,-8,75.3,Doiras (Navia),Hidroeléctrico,Cantábrico Occidental,43.387222,-6.823889
+16/01/2024,2024,3,Ibiur,Ibiur,8,7,0,87.5,Ibiur (Ibiur),Consuntivo,Cantábrico Oriental,43.0783013,-2.124327
+16/01/2024,2024,3,Ordunte,Ordunte,22,22,2,100,Ordunte (Ordunte),Consuntivo,Cantábrico Oriental,43.1611914,-3.2823462
+16/01/2024,2024,3,Rioseco,Nalón,4,3,0,75,Rioseco (Nalón),Consuntivo,Cantábrico Occidental,43.2246056,-5.4633649
+16/01/2024,2024,3,Salime,Navia,238,199,-7,83.6,Salime (Navia),Hidroeléctrico,Cantábrico Occidental,43.1590562,-6.8692778
+16/01/2024,2024,3,San Antón,Endara,5,5,0,100,San Antón (Endara),Consuntivo,Cantábrico Oriental,43.27611743,-1.774102788
+16/01/2024,2024,3,Tanes,Nalón,34,27,-1,79.4,Tanes (Nalón),Consuntivo,Cantábrico Occidental,43.2050532,-5.4050813
+16/01/2024,2024,3,Ibai-Eder,Ibai-Eder,11,11,0,100,Ibai-Eder (Ibai-Eder),Consuntivo,Cuencas Internas del País Vasco,43.123471,-2.2255115
+16/01/2024,2024,3,Urkulu,Urkulu,10,7,0,70,Urkulu (Urkulu),Consuntivo,Cuencas Internas del País Vasco,43.0197373,-2.4801958
+16/01/2024,2024,3,Almodóvar,Almodóvar,6,2,0,33.3,Almodóvar (Almodóvar),Consuntivo,Guadalete-Barbate,36.1560848,-5.6444806
+16/01/2024,2024,3,Arcos de la Frontera,Guadalete,14,12,0,85.7,Arcos de la Frontera (Guadalete),Consuntivo,Guadalete-Barbate,36.7516436,-5.7958426
+16/01/2024,2024,3,Barbate,Barbate,228,21,1,9.2,Barbate (Barbate),Consuntivo,Guadalete-Barbate,36.381161,-5.7141879
+16/01/2024,2024,3,Bornos,Guadalete,200,20,1,10,Bornos (Guadalete),Consuntivo,Guadalete-Barbate,36.8117195,-5.7141879
+16/01/2024,2024,3,Celemín,Celemín,45,4,0,8.9,Celemín (Celemín),Consuntivo,Guadalete-Barbate,36.3063696,-5.7536812
+16/01/2024,2024,3,Corumbel Bajo,Corumbel,19,4,0,21.1,Corumbel Bajo (Corumbel),Consuntivo,"Tinto, Odiel y Piedras",37.4390078,-6.5576553
+16/01/2024,2024,3,Guadalcacín II,Majaceite,800,131,-1,16.4,Guadalcacín II (Majaceite),Consuntivo,Guadalete-Barbate,36.6522222,-5.7352778
+16/01/2024,2024,3,Los Hurones,Majaceite,135,39,0,28.9,Los Hurones (Majaceite),Consuntivo,Guadalete-Barbate,36.6872725,-5.5341696
+16/01/2024,2024,3,Jarrama,Jarrama,43,22,0,51.2,Jarrama (Jarrama),Consuntivo,"Tinto, Odiel y Piedras",40.2988903,-3.5426086
+16/01/2024,2024,3,Los Machos,Piedras,12,10,0,83.3,Los Machos (Piedras),Consuntivo,"Tinto, Odiel y Piedras",37.3140304,-7.2040233
+16/01/2024,2024,3,Odiel,Odiel,8,7,0,87.5,Odiel (Odiel),Consuntivo,"Tinto, Odiel y Piedras",37.7910244,-6.6229453
+16/01/2024,2024,3,Olivargas,Olivargas,29,28,0,96.6,Olivargas (Olivargas),Consuntivo,"Tinto, Odiel y Piedras",37.7195741,-6.8123247
+16/01/2024,2024,3,Piedras,Piedras,60,23,0,38.3,Piedras (Piedras),Consuntivo,"Tinto, Odiel y Piedras",37.38761957,-7.268309648
+16/01/2024,2024,3,Sancho,Meca,58,48,0,82.8,Sancho (Meca),Consuntivo,"Tinto, Odiel y Piedras",37.4793975,-7.0216191
+16/01/2024,2024,3,Zahara-El Gastor,Guadalete,223,9,0,4,Zahara-El Gastor (Guadalete),Consuntivo,Guadalete-Barbate,36.841141,-5.3704009
